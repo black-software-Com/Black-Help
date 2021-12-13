@@ -37,6 +37,23 @@ bash install
 
 python3 hack
 ```
+### Installing [Black-Server](https://github.com/black-software-Com/Black-Server) 
+
+#### Installing For (Linux,MacOS):
+``` sh
+git clone https://github.com/black-software-Com/black-server
+
+cd black-server
+
+./black.exe
+```
+
+#### Installing Fore Windows
+``` text
+First Installing Zip File
+And Go To Folder
+And Run black.exe
+```
 
 ### Installing [Black-DataBase](https://github.com/black-software-com/Black-Database)
 ``` sh

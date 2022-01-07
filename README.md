@@ -37,22 +37,28 @@ bash install
 
 python3 hack
 ```
-### Installing [Black-Server](https://github.com/black-software-Com/Black-Server) 
 
-#### Installing For (Linux,MacOS):
+### Installing [Black-Webbrowser](https://github.com/black-software-com/black-webbrowser)
+
 ``` sh
-git clone https://github.com/black-software-Com/black-server
+git clone https://github.com/black-software-com/black-webbrowser
+
+cd black-webbrowser
+
+bash install.sh
+
+python black
+```
+
+### Installing [Black-Server](https://github.com/black-software-com/black-server)
+``` sh
+git clone https://github.com/black-software-com/black-server
 
 cd black-server
 
-./black.exe
-```
+bash install.sh
 
-#### Installing Fore Windows
-``` text
-First Installing Zip File
-And Go To Folder
-And Run black.exe
+python black
 ```
 
 ### Installing [Black-DataBase](https://github.com/black-software-com/Black-Database)
@@ -78,3 +84,28 @@ bash install.sh --install
 python black.py # or bash install.sh --start
 ```
 <br>
+
+#### Download Black 
+<br>
+
+### Black-Tool
+Link | Version | Platform |
+:----:|:-------:|:---------:|
+[Black-Tool](https://github.com/black-software-Com/Black-Tool/archive/refs/heads/master.zip)  | v5.0 | (Windows,Linux,MacOS)
+[Black-Tool](https://github.com/black-software-Com/Black-Tool-v4.0.0/archive/refs/heads/main.zip) | v4.0 | (Windows,Linux,MacOS)
+
+### Black-Webbrowser
+Link | Version | Platform |
+:----:|:-------:|:---------:|
+[Black-Webbrowser](https://github.com/black-software-Com/Black-Webbrowser/archive/refs/heads/master.zip)  | v2.0 | (Windows,Linux,MacOS)
+[Black-Webbrowser](https://github.com/black-software-Com/Black-Webbrowser-v1.0/archive/refs/heads/master.zip) | v1.0 | (Windows,Linux,MacOS)
+
+<br>
+
+### [Download Black-Server](https://github.com/black-software-Com/Black-Server/archive/refs/heads/master.zip)
+
+### [Download Black-DataBase](https://github.com/black-software-Com/Black-Database/archive/refs/heads/main.zip)
+
+### [Download Black-Video Player](https://github.com/black-software-Com/Black-Player/archive/refs/heads/master.zip)
+<br>
+
